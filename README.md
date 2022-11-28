@@ -4,28 +4,6 @@
 El proyecto consiste en la administracion de notas de los estudiantes de la **Universidad Continental**
 >
 
-
-| Apellidos y Nombres        | Rol |
-|----------------------------|-----|
-| Carhuallanqui Quispe Leidy |     |
-| Caso Arellano Christian    |     |
-| Cerron Muñoz Kriss         |     |
-| Puchoc Laura Kenny         |     |
-
-# Primer Sprint
-
-|Prioridad|Identificador|Nombre                              |Responsable|
-|    1    |    HU001    |Registro de asignaturas             |    KCM    |
-|    2    |    HU002    |Registro de alumnos                 |    CJCA   |
-|    3    |    HU003    |Registro de matriculas              |    KCM    |
-|    4    |    HU004    |Ingresar notas                      |    KWPL   |
-|    5    |    HU005    |Calcula promedio de cada estudiante |    LMCQ   |
-
-
-
-
-# Proyecto fin de curso 
-### Gestion de Notas
 El modúlo tiene como **objetivo** seleccionar un grupo o estudiante de un grupo.
 Apellidos y nombres | Rol
 ------------------- | ---
@@ -34,15 +12,17 @@ Carhuallanqui Quispe, Leidy Marielly | Scrum Master
 Cerron Muñoz, Kriss| Scrum Master
 Puchoc Laura, Kenny William | Scrum Master
 
+## Equipo de Desarrollo
+
+|Prioridad|Identificador| Apellidos y nombres de los integrantes del equipo de desarrollo|Responsable|
+|---------|-------------|----------------------------------------------------------------|-----------|
+|    1    |    HU001    |Registro de asignaturas             |    KCM    |
+|    2    |    HU002    |Registro de alumnos                 |    CJCA   |
+|    3    |    HU003    |Registro de matriculas              |    KCM    |
+|    4    |    HU004    |Ingresar notas                      |    KWPL   |
+|    5    |    HU005    |Calcula promedio de cada estudiante |    LMCQ   |
 
 
-## EQUIPO DE DESARROLLO
-Integrante | Apellidos y nombres de los integrantes del equipo de desarrollo (ordenado alfabéticamente)
----------- | ------------------------------------------------------------------------------------------
-1 | Carhuallanqui Quispe, Leidy Marielly
-2 | Caso Arellano, Christian Junior
-3 | Cerron Muñoz, Kriss
-4 | Puchoc Laura, Kenny William
 
 
 ### ÍTEM UNO
