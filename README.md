@@ -1,4 +1,4 @@
-<
+
 # Proyecto fin de curso
 ## Gestion de Notas
 El proyecto consiste en la administracion de notas de los estudiantes de la **Universidad Continental**
